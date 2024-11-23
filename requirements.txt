@@ -1,0 +1,6 @@
+streamlit
+pytube
+python-dotenv
+validators
+moviepy
+ffmpeg-python

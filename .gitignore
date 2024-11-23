@@ -1,0 +1,5 @@
+ytvideodw_env/
+__pycache__/
+*.pyc
+.env
+old_downloader.py_code.txt
